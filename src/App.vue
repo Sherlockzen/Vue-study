@@ -22,7 +22,7 @@ const clearText = () => {
 </script>
 
 <template>
-  <h1>Testando Vue</h1>
+  <h1 class="bg-black">Testando Vue</h1>
   <div class="containerTests">
     <div class="test1">
       <h2>Reatividade with Numbers</h2>
